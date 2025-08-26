@@ -4,9 +4,11 @@
 This repository contains my work for the **AI System Development Assignment**, showcasing different aspects of Artificial Intelligence system design and implementation. It includes datasets, code, and reports that demonstrate practical applications of AI concepts.  
 
 ## 👩‍💻 Author  
-**Shalini Singh**  
+**Shalini Singh** 
 Branch - CSE
+
 Roll No. - 221000053
+
 Final Year Computer Science Student, IIIT Naya Raipur  
 
 ## 📂 Repository Structure  
