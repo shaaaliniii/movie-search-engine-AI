@@ -23,25 +23,34 @@ Final Year Computer Science Student, IIIT Naya Raipur
 
 ### 1. Clone the Repository  
 ```bash
-git clone https://github.com/shaaaliniii/Movie-Search-Engine.git
+git clone https://github.com/shaaaliniii/movie-search-engine-AI.git
+```
 
-
+### 2. Create and Activate Virtual Environment
+```bash
 python -m venv venv
 source venv/bin/activate   # For Linux/Mac
 venv\Scripts\activate      # For Windows
+```
 
+### 3. Install Dependencies
+```bash
 pip install -r requirements.txt
+```
 
+### 4. Run Jupyter Notebook
+```bash
 jupyter notebook
+```
 
 
-📊 Results
+### 📊 Results
 
 Model performance and evaluation metrics are included in the reports/ folder.
 
 Graphs and visualizations are available in the notebooks.
 
-📖 Learning Outcomes
+### 📖 Learning Outcomes
 
 Hands-on experience in building AI systems
 
@@ -49,10 +58,10 @@ Understanding of data-driven analysis
 
 Improved knowledge of AI techniques and implementation
 
-🤝 Contribution
+### 🤝 Contribution
 
 Suggestions and improvements are always welcome! You can fork the repository and submit pull requests.
 
-📜 License
+### 📜 License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
